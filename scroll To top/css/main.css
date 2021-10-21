@@ -1,0 +1,17 @@
+body{
+    height: 4000px;
+   
+
+}
+html{
+    scroll-behavior: smooth;
+}
+#btn{
+    width: 40px;
+    height: 40px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    display: none;
+    transition: 500ms all ease-in-out;
+}

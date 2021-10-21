@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Tahoma;
+} 
+body{
+    background-color: #373a40;
+}
+.container{
+    width: calc(100% / 2);
+    margin:20px auto;
+    background-color: #1f3c88;
+    padding: 20px 20px;
+    color: #fff;
+ 
+} 
+
+
+.container .card input{
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    margin-top: 7px;
+    box-shadow:    0px 0px 4px -1px #373a40
+    ;
+    width: 100%;
+    font-size: 15px;
+}
+
+#fact{
+    display: none;
+    padding: 9px 0px 0px 15px ;
+}
+#fact p {
+    padding-top: 5px;
+}

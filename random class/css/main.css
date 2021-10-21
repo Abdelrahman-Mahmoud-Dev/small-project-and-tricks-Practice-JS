@@ -1,0 +1,24 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.one h2,
+.one p{
+
+    color: rgb(211, 37, 37);
+}
+.two h2,
+.two p{
+
+    color: rgb(62, 29, 207);
+}
+.three h2,
+.three p{
+
+    color: rgb(12, 240, 183);
+}
+.four h2,
+.four p{
+
+    color: rgb(203, 246, 11);
+}

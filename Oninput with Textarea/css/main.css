@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+}
+.zero{
+    color: red;
+}
+/* textarea:valid {
+    color: rgb(142, 226, 6);
+  }
+textarea:invalid {
+background-color: rgb(17, 49, 233);
+}
+textarea:right-answer {
+    color: black;
+    } */
